@@ -1,6 +1,6 @@
 ---
 author: "Paragraph Test"
-date: 2026-11-20T16:27:47.941Z
+date: 2026-11-20T16:43:19.567Z
 layout: "blog"
 slug: "paragraph-editor-blocks-test"
 title: "Every block Paragraph's editor makes"
