@@ -1,8 +1,6 @@
 ---
 author: "Paragraph Test"
-date: 2026-11-20T14:05:36.290Z
-description: "A test article for GitHub publishing"
-draft: false
+date: 2026-11-20T15:46:00.301Z
 layout: "blog"
 slug: "paragraph-editor-blocks-test"
 title: "Every block Paragraph's editor makes"
